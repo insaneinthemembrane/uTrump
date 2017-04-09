@@ -37,9 +37,6 @@ Download Wallet
 
 
 
-------
-
-
 **The Shame**
 
 [4HyvBtnRdYfa8kuvzzqLesuZ7yYjoKN3Kg](http://explorer.utrump.net:3001/address/4HyvBtnRdYfa8kuvzzqLesuZ7yYjoKN3Kg) 
