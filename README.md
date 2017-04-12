@@ -70,3 +70,7 @@ Total: [534,000](http://explorer.utrump.net:3001/address/4HyvBtnRdYfa8kuvzzqLesu
 
 
 -----
+
+ypool.ga's url is not resolving, I asume they are are one of their other pools. They usually have an an IP beginning with 91 or 94 (even 95).
+
+------
