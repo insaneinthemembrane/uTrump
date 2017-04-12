@@ -49,6 +49,14 @@ Download Wallet
 
 ------
 
+"Oh what a tangled web we weave
+
+When first we practice to deceive."
+
+Sir. Walter Scott, "Marmion", Canto VI, XVII: (1808).
+
+-----
+
 **The Shame**
 
 [4HyvBtnRdYfa8kuvzzqLesuZ7yYjoKN3Kg](http://explorer.utrump.net:3001/address/4HyvBtnRdYfa8kuvzzqLesuZ7yYjoKN3Kg) 
