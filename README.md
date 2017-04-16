@@ -1,53 +1,175 @@
-# uTrump X11 Hybrid 0 - 14,000 blocks - Full PoS from 14,000 blocks #
+uTrump | UTRMP
+================================
 
 -----
 
-- rpc 4510
-- net 4509
 
-- addnodes: 216.189.153.219 , 104.140.105.42, 104.140.105.43 , 104.140.105.44 , 104.140.105.45 , 45.32.151.28, 138.197.71.147, 52.89.113.84, 45.76.47.47, 216.189.144.26, 84.200.32.188, 84.200.84.227, 138.197.63.240
+> Insanity and psycopathy in the White House
+
+> **From the original development team of Trumpinsane and Insane[coin]**
+
+---
+
+
+Splash
+----
+
+
+![usplash.png](https://bitbucket.org/repo/KrrMa67/images/4194376412-usplash.png)
+
+
+---
+
+
+uTrump Specifications
+----
+
+> 
+> Algorithm: Proof of Stake [X11 framework]
+
+> Name: uTrump
+
+> Ticker: UTRMP
+
+> rpc port: 4509
+
+> p2p port: 4510
+
+> UTRMP Count: 4.3 million
+
+> Interest: 3 per-cent
+
+> Average Blocks per hour: 8
+
+> Difficulty: KGW / each block
+
+> Minimum Staking Period: 12 hours
+
+> Maximum Staking Period: 14 days
+> 
+---
+
+Addnodes
+----
+
+
+> 
+> 216.189.153.219 
+
+> 104.140.105.42 
+
+> 104.140.105.43
+
+> 104.140.105.44 
+
+> 104.140.105.45 
+
+> 45.32.151.28 
+
+> 138.197.71.147
+
+> 52.89.113.84 
+
+> 45.76.47.47
+
+> 216.189.144.26
+
+> 84.200.32.188
+
+> 84.200.84.227
+
+> 138.197.63.240
+> 
+
 
 -----
 
-- PoW Block Reward: 1000 uTrump (till 14,000 blocks)
-- PoS Reward: 3 per cent (from block 1)
-- Minimum Staking Period: 12 hours
-- Maximum Staking Period: 14 days
+Exchanges
+----
 
------
-
-[uTrump Explorer](http://explorer.utrump.net:3001)
+> [coming soon](http://utrump.net)
 
 
 -----
 
-[uTrump.net](http://utrump.net)
+Website
+----
+
+> [utrump.net](http://utrump.net)
+
+-----
+
+Giveaways
+----
+
+> To be arranged
+> 
 
 
 -----
 
-Download Wallet
+uTrump-qt
+----
 
-[uTrump-qt - meganz](https://mega.nz/#!RlYkSKyR!JIROeUph2_JpNlTZww3fiaqnRcUCeEVamjxzbhNKoOg)
+> 
+> [Mega-NZ](https://mega.nz/#!RlYkSKyR!JIROeUph2_JpNlTZww3fiaqnRcUCeEVamjxzbhNKoOg)
+
+> [Mirror Download](https://c.mail.com/twitter@chef.net/7vY7VYN2Q_6CXbhncVbMGw) 
+>
 
 
-[uTrump-qt - mirror](https://c.mail.com/twitter@chef.net/7vY7VYN2Q_6CXbhncVbMGw)
+----
+
+Daemon
+---
+
 
 ------
+```sh
 
-- Splash
+$ cd 
 
-![splash.png](https://bitbucket.org/repo/8zjLn5A/images/1769957289-splash.png)
-
-
-------
-
-- Wallet
-
-![utrump-wallet.png](https://bitbucket.org/repo/8zjLn5A/images/3695592609-utrump-wallet.png)
+$ git clone https://TRUMPINSANE@bitbucket.org/TRUMPINSANE/utrump-official.git
 
 
-------
+$ mv utrump-official utrump
+
+$ cd utrump/src
+
+$ make -f makefile.unix USE_UPNP=1
+
+$ strip uTrumpd
+
+$ ./uTrumpd
+
+```
+
+>
+> Alternatively
+>
+
+
+```sh
+
+$ make -f makefile.unix USE_UPNP=-
+
+or
+
+$ make -f makefile.unix 
+```
+
+-----
+
+
+Wallet
+----
+
+![utrump-wallet.png](https://bitbucket.org/repo/KrrMa67/images/621452420-utrump-wallet.png)
+
+-----
+
+The Shame
+----
 
 "Oh what a tangled web we weave
 
@@ -55,22 +177,19 @@ When first we practice to deceive."
 
 Sir. Walter Scott, "Marmion", Canto VI, XVII: (1808).
 
------
-
-**The Shame**
-
-[4HyvBtnRdYfa8kuvzzqLesuZ7yYjoKN3Kg](http://explorer.utrump.net:3001/address/4HyvBtnRdYfa8kuvzzqLesuZ7yYjoKN3Kg) 
-
-[470](http://explorer.utrump.net:3001/tx/7f9f87570750d4605117875ca4949731b6aeca9c0a16c593cb30bfca3ca4962d) - [1214](http://explorer.utrump.net:3001/tx/a4881cb5a9ab06028c4070afec5cb4db6060ae142bf42bb3815cbb60fe45aa9f)
-
-Total: [534,000](http://explorer.utrump.net:3001/address/4HyvBtnRdYfa8kuvzzqLesuZ7yYjoKN3Kg)
 
 
-[ypool.ga](http://ypool.ga) mining a pre-release behind closed doors (not in public), which they tracked down on Github in a most innocuous sounding repo. This has happened twice to me, with two different coins, from ypool.ga, which leads me to suspect they have a "github bot".
 
+> [4HyvBtnRdYfa8kuvzzqLesuZ7yYjoKN3Kg](http://explorer.utrump.net:3001/address/4HyvBtnRdYfa8kuvzzqLesuZ7yYjoKN3Kg)
 
------
+Blocks 470 - 1214 = 534,000 UTRMP
 
-ypool.ga's url is not resolving, I assume they are using one of their other pools, or have set yet another one up. They usually have an IP beginning with 91 or 94 (even 95). They are not hard to find.
+These were premined by the owners of [ypool.ga](http://ypool.ga) before release (not on their public pool, but behind closed doors). In fact they found another two and stole the ideas.
 
-------
+The repos were in a most innocuous sounding names. which leads me to suspect they have a "github bot".
+
+[ypool.ga's](http://ypool.ga) url is not resolving, I assume they are using one of their other pools, or have set yet another one up. They usually have an IP beginning with 91 or 94 (even 95). They are not hard to find.
+
+**If they return them via a giveaway to others or something, I would consider that very big of them.** 
+
+----
